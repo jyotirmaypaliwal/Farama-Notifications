@@ -14,6 +14,7 @@ setuptools.setup(
     url="https://github.com/Farama-Foundation/Farama-Notifications",
     classifiers=[
         "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.15",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
